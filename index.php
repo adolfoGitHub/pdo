@@ -18,6 +18,7 @@ catch(PDOException $e){
     echo $e->getMessage();
 }
 //create table to display pets
+echo '<h3>This is my pet table</h3>';
 echo '<table>';
 echo   '<tr>';
 echo        '<th>id</th>';
