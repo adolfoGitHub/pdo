@@ -1,4 +1,11 @@
 <?php
+/**
+ * Adolfo Gonzalez
+ * February 11, 2019
+ *
+ * /328/pdp/index.php
+ */
+
 // database connection
 require '/home/agonzale/config.php';
 
