@@ -40,5 +40,3 @@ foreach ($result as $row){
     echo   '</tr>';
 }
 echo '</table>';
-
-echo 'im here';
